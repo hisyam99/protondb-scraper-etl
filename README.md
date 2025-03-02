@@ -28,8 +28,8 @@ Before running the program, ensure you have the following installed:
 ## Installation
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/username/protondb-etl-pipeline.git
-   cd protondb-etl-pipeline
+   git clone https://github.com/hisyam99/protondb-scraper-etl.git
+   cd protondb-scraper-etl
    ```
 2. Install the required dependencies:
    ```bash
