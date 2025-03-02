@@ -1,0 +1,21 @@
+# Core libraries for data processing and storage
+requests>=2.28.0        # Untuk melakukan HTTP requests ke API ProtonDB
+pandas>=1.5.0           # Untuk manipulasi dan analisis data dalam DataFrame
+sqlite3                 # Built-in Python library untuk SQLite (tidak perlu versi spesifik)
+
+# NLP library
+nltk>=3.7               # Untuk pemrosesan bahasa alami (tokenization, stemming, dll.)
+
+# Visualization libraries
+matplotlib>=3.6.0       # Untuk membuat plot dasar
+seaborn>=0.12.0         # Untuk visualisasi data yang lebih menarik
+wordcloud>=1.8.2        # Untuk membuat word cloud berdasarkan sentimen
+
+# Numerical computation
+numpy>=1.23.0           # Untuk operasi numerik dan array
+
+# Utility for JSON and file handling (built-in, no need to install)
+# json
+# os
+# sys
+# datetime
